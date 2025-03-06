@@ -1,3 +1,5 @@
+Grupo: Heitor Yamamoto, Gustavo Nishimura, Deivison Tavares
+
 # Como rodar o projeto
 - para baixar as dependências
 ```
